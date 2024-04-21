@@ -1,7 +1,3 @@
-//* -----------------------------------------------------
-//* Programming Question: Longest Word in a String
-//* -----------------------------------------------------
-
 //? Q: Write a function findLongestWord that takes a string as input and returns the longest word in the string. If there are multiple longest words, return the first encountered.
 
 //* Contraints:
