@@ -11,7 +11,6 @@ function findLongestWord1(str1) {
   }
   return max;
 }
-
 console.log(findLongestWord1(str1));
 
 // OR
@@ -28,7 +27,6 @@ const findLongestWord2 = (str2) => {
   words = words.sort((a, b) => b.length - a.length); //Comparison function
   return words[0];
 };
-
 console.log(findLongestWord2(str2));
 
 // OR 
@@ -49,5 +47,6 @@ function giveBigString(str2) {
   });
   return string;
 }
-
 console.log(giveBigString(str3));
+
+//Ans. Javascript
