@@ -1,0 +1,10 @@
+//? You are required to implement a function generateHash that generates a hash tag from a given input string. The hash tag should be condtructed as follows:
+
+//*Constaints:
+//? The input string sholud be converted to a hash tag format, where each word is capitalized and concatenated together without spaces.
+//? If the length of the input string is greater than 280 characters or if the input string is empty or contains only whitespaces, the function sholud return false.
+//? Otherwise, the function should return the generated hash log prefixed with #.
+
+//* Note:
+//? Write a functioon generate Hash to accomplish this task.
+ 
