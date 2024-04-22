@@ -55,4 +55,4 @@ const generateHash3 = (str3) => {
 }
 console.log(generateHash3(str3));
 
-//Ans. #MyNameIsDipanshuZalke
+//Ans.- #MyNameIsDipanshuZalke
