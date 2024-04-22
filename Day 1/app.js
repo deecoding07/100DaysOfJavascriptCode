@@ -49,4 +49,4 @@ function giveBigString(str2) {
 }
 console.log(giveBigString(str3));
 
-//Ans. Javascript
+//Ans.- Javascript
