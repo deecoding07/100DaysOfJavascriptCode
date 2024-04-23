@@ -48,4 +48,4 @@ const countChar3 = (word, char) => {
 console.log(countChar3("Computer Science", "c"));
 
 
-//Ans.= 4
+//Ans.= 3
