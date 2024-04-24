@@ -1,0 +1,10 @@
+//? Write a function called checkTriangleType that takes three parameters representing the lengths of the sides of a triangle. The function should return a string indicating the type of triangle: "equilateral", "isoceles", or "scalene".
+
+console.log(checkTriangleType(3, 3, 3)); //Output: "equilateral"
+console.log(checkTriangleType(3, 5, 3)); //Output: "isoceles"
+console.log(checkTriangleType(3, 8, 6)); //Output: "scalene"
+
+//todo The function should adhere to the following rules:
+//? If all three sides are of equal length, return "equilateral".
+//? If only two sides of equal length, return "isoceles".
+//? If all three sides have different lengths, return "scalene".
