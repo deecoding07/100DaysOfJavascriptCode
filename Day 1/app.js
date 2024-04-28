@@ -19,11 +19,11 @@ console.log(findLongestWord1(str1));
 let str2 = "100 Day Of Javascript Code Challenge";
 
 const findLongestWord2 = (str2) => {
-  if (str.trim().length === 0) {
+  if (str2.trim().length === 0) {
     return false;
   }
 
-  words = str.split(" ");
+  words = str2.split(" ");
   words = words.sort((a, b) => b.length - a.length); //Comparison function
   return words[0];
 };
@@ -34,10 +34,10 @@ console.log(findLongestWord2(str2));
 //Method3
 let str3 = "100 Day Of Javascript Code Challenge";
 
-function giveBigString(str2) {
+function giveBigString(str3) {
   let val = 0;
   let string = "";
-  let arr = str2.split(" ");
+  let arr = str3.split(" ");
 
   arr.map((e) => {
     if(e.length > val) {
