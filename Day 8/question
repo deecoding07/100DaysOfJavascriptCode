@@ -1,0 +1,11 @@
+//? Write a function factorial that takes a non-negative interger num as input and returns its factorial. The factorial od=f a non-negative integer n, denotes as n!, is the product of all positive integers less than or equal to n, The factorial of 0 is denoted as 1.
+
+//* Here aresome examples of factorial calculations:
+// factorial(0) => 1
+// factorial(1) => 1
+// factorial(2) => 2
+// factorial(3) => 6
+// factorial(4) => 24
+// factorial(5) => 120
+
+// Your function sholud work for any non-negative integer.
